@@ -1,5 +1,3 @@
-<p align="center"><img src="/design/landing-page.png"></p>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
